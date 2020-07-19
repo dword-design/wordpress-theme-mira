@@ -1,4 +1,4 @@
-			<div id="news">
+			<div class="news">
 				<?php
 					$the_query = new WP_Query('showposts=5');
 					while ($the_query -> have_posts()) :

@@ -11,25 +11,25 @@
 		<?php wp_head(); ?>
 	</head>
 	<body>
-		<div id="wrapper">
-			<div id="wrapper-padded">
-				<div id="top">
-					<div id="logo">
+		<div class="wrapper">
+			<div class="wrapper-padded">
+				<div class="top">
+					<div class="logo">
 						<a href="http://www.mira-konzertbuero.de">
 							<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo.jpg" />
 						</a>
 					</div>
-					<div id="address">
+					<div class="address">
 						<?php if(!function_exists('dynamic_sidebar') || dynamic_sidebar('Address')) {} ?>
 					</div>
 				</div>
 				<div style="clear: both"></div>
-				<div id="menu">
+				<div class="menu">
 					<?php if(!function_exists('dynamic_sidebar') || dynamic_sidebar('Menu')) {} ?>
 				</div>
 				<div style="clear: both"></div>
-				<div id="banner">
+				<div class="banner">
 					<?php if(!function_exists('dynamic_sidebar') || dynamic_sidebar('Banner')) {} ?>
 				</div>
-				<div id="main">
-					<div id="content">
+				<div class="main">
+					<div class="content">

@@ -3,7 +3,7 @@
 					<div style="clear: both"></div>
 				</div>
 			</div>
-			<div id="footer">
+			<div class="footer">
 				<a href="http://www.mira-konzertbuero.de/impressum">Impressum</a> | <a href="http://www.mira-konzertbuero.de/datenschutz">Datenschutz</a> | <a href="http://www.mira-konzertbuero.de/wp-admin">Admin</a>
 			</div>
 		</div>
