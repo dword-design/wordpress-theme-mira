@@ -1,0 +1,151 @@
+@import "averia-sans-libre";
+
+.clearfix:after {
+	content:".";
+	display:block;
+	clear:both;
+	height:0;
+	visibility:hidden;
+}
+
+body {
+	background-color: rgb(127, 26, 26);
+	margin: 0px;
+	font-family: 'Averia Sans Libre';
+}
+
+a {
+	text-decoration: none;
+	color: rgb(214, 44, 44);
+}
+
+#wrapper {
+	width: 800px;
+	min-height: 900px;
+	margin: auto;
+	background-color: white;
+	-webkit-box-shadow: 0px 0px 20px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 20px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 20px 0px rgba(50, 50, 50, 0.75);
+}
+
+#wrapper-padded {
+	padding: 20px;
+}
+
+#logo {
+	float: left;
+}
+
+#logo img {
+	width: 300px;
+}
+
+#address {
+	float: right;
+}
+
+#address {
+	text-align: left;
+	color: rgb(214, 44, 44);
+}
+
+#address tr td:first-child {
+	text-align: right;
+	color: black;
+}
+
+#menu {
+	float: right;
+}
+
+#menu ul {
+	list-style-type: none;
+	margin: 0px;
+	display: table;
+	border-collapse: collapse;
+}
+
+#menu li {
+	display: table-cell;
+	margin: 0px;
+	border: 1px solid black;
+	border-bottom: none;
+	font-size: 1.6em;
+}
+
+#menu a {
+	color: white;
+	background-color: rgb(214, 44, 44);
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+}
+
+#menu a:hover, #menu li.current-menu-item a {
+	background-color: rgb(214, 100, 100);
+	transition: background-color 0.3s;
+}
+
+#banner {
+	border: 1px solid black;
+}
+
+#banner img {
+	width: 100%;
+}
+
+#main {
+	padding-top: 20px;
+}
+
+#info {
+	margin-right: 500px;
+	padding: 10px;
+	background-color: rgb(214, 44, 44);
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0px 0px 20px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 20px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 20px 0px rgba(50, 50, 50, 0.75);
+	color: white;
+}
+
+#content {
+	width: 500px;
+	float: right;
+	padding-left: 20px;
+	padding-top: 0px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+h1 {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	color: rgb(214, 44, 44);
+	font-size: 1.7em;
+}
+
+.irw-slider {
+	padding-left: 0px;
+}
+
+.entry {
+	margin-bottom: 30px;
+}
+
+.pagination {
+	text-align: right;
+}
+
+#footer {
+	border-top: 1px dashed black;
+	text-align: center;
+	padding: 10px;
+	color: rgb(214, 44, 44);
+}
