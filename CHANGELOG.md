@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/wordpress-theme-mira/compare/v1.0.0...v1.0.1) (2020-09-21)
+
+
+### Bug Fixes
+
+* **config:** Update changed files ([5429679](https://github.com/dword-design/wordpress-theme-mira/commit/54296793aeeb698aaa1a9149271d92d10aba559c))
+
 # 1.0.0 (2020-07-19)
 
 
