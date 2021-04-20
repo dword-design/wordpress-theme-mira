@@ -1,7 +1,7 @@
 {
   "name": "wordpress-theme-mira",
   "version": "1.0.7",
-  "description": "",
+  "description": null,
   "repository": "dword-design/wordpress-theme-mira",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -25,5 +25,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "baseConfig": "@dword-design/wordpress-theme"
+  "baseConfig": "@dword-design/wordpress-theme",
+  "homepage": null,
+  "keywords": []
 }
