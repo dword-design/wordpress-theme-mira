@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/dword-design/wordpress-theme-mira/compare/v1.0.9...v1.0.10) (2021-04-28)
+
+
+### Bug Fixes
+
+* updated package.json[description] ([#18](https://github.com/dword-design/wordpress-theme-mira/issues/18)) ([b62e281](https://github.com/dword-design/wordpress-theme-mira/commit/b62e28174de129543ae9c8099c486c573a9776de))
+
 ## [1.0.9](https://github.com/dword-design/wordpress-theme-mira/compare/v1.0.8...v1.0.9) (2021-04-22)
 
 
