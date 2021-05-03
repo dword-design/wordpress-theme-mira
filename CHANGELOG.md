@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/dword-design/wordpress-theme-mira/compare/v1.0.10...v1.0.11) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#21](https://github.com/dword-design/wordpress-theme-mira/issues/21)) ([3e80feb](https://github.com/dword-design/wordpress-theme-mira/commit/3e80febd8888c721faaf15e6efe424b69368feb5))
+
 ## [1.0.10](https://github.com/dword-design/wordpress-theme-mira/compare/v1.0.9...v1.0.10) (2021-04-28)
 
 
