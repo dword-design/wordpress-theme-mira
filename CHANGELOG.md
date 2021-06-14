@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/dword-design/wordpress-theme-mira/compare/v1.0.12...v1.0.13) (2021-06-14)
+
+
+### Bug Fixes
+
+* update config files ([e7ca0e3](https://github.com/dword-design/wordpress-theme-mira/commit/e7ca0e34c62d0561ef86f1d5aad46a3f486647ed))
+
 ## [1.0.12](https://github.com/dword-design/wordpress-theme-mira/compare/v1.0.11...v1.0.12) (2021-05-28)
 
 
