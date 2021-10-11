@@ -1,3 +1,10 @@
+## [1.0.30](https://github.com/dword-design/wordpress-theme-mira/compare/v1.0.29...v1.0.30) (2021-10-11)
+
+
+### Bug Fixes
+
+* lock file maintenance ([a8f6ba7](https://github.com/dword-design/wordpress-theme-mira/commit/a8f6ba737c8d651ea2a9e7eb210dc50bd7fffffd))
+
 ## [1.0.29](https://github.com/dword-design/wordpress-theme-mira/compare/v1.0.28...v1.0.29) (2021-10-04)
 
 
